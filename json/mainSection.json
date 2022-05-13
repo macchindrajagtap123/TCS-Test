@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "sectionId": 1,
+            "sectionName": "FASHION",
+            "sectionUrl": "Img1.png",
+            "newsTitle": [
+                {
+                    "articleId": 1,
+                    "newsDesc": "KGF-2 actress Shrinidhi shetty stuns in a mint green anarkali"
+                },
+                {
+                    "articleId": 2,
+                    "newsDesc": "KGF-2 actress Shrinidhi shetty stuns in a mint green anarkali"
+                },
+                {
+                    "articleId": 3,
+                    "newsDesc": "KGF-2 actress Shrinidhi shetty stuns in a mint green anarkali"
+                }
+            ]
+        },
+        {
+            "sectionId": 2,
+            "sectionName": "TRAVEL",
+            "sectionUrl": "Img2.png",
+            "newsTitle": [
+                {
+                    "articleId": 1,
+                    "newsDesc": "KGF-2 actress Shrinidhi shetty stuns in a mint green anarkali"
+                },
+                {
+                    "articleId": 2,
+                    "newsDesc": "KGF-2 actress Shrinidhi shetty stuns in a mint green anarkali"
+                },
+                {
+                    "articleId": 3,
+                    "newsDesc": "KGF-2 actress Shrinidhi shetty stuns in a mint green anarkali"
+                }
+            ]
+        },
+        {
+            "sectionId": 3,
+            "sectionName": "BEAUTY",
+            "sectionUrl": "Img3.png",
+            "newsTitle": [
+                {
+                    "articleId": 1,
+                    "newsDesc": "KGF-2 actress Shrinidhi shetty stuns in a mint green anarkali"
+                },
+                {
+                    "articleId": 2,
+                    "newsDesc": "KGF-2 actress Shrinidhi shetty stuns in a mint green anarkali"
+                },
+                {
+                    "articleId": 3,
+                    "newsDesc": "KGF-2 actress Shrinidhi shetty stuns in a mint green anarkali"
+                }
+            ]
+        },
+        {
+            "sectionId": 4,
+            "sectionName": "Advertisment",
+            "sectionUrl": [
+                "adv1.png",
+                "adv2.png"
+            ],
+            "isAdd": true
+        }
+    ]
+}
